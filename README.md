@@ -117,7 +117,7 @@ uvicorn workout_api.main:app --reload
 
 ---
 
-## 📋 Endpoints
+##  Endpoints
 
 A documentação completa e interativa dos endpoints está disponível via Swagger UI em `http://localhost:8000/docs` após subir a aplicação.
 
@@ -129,7 +129,7 @@ A documentação completa e interativa dos endpoints está disponível via Swagg
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 | Tecnologia | Uso |
 |-----------|-----|
