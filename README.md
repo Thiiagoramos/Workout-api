@@ -100,7 +100,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-3. Configure as variáveis de ambiente — crie um arquivo `.env` na raiz:
+3. Configure as variáveis de ambiente - crie um arquivo `.env` na raiz:
 ```env
 DATABASE_URL=postgresql+asyncpg://usuario:senha@localhost:5432/workout
 ```
