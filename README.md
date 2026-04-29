@@ -12,7 +12,7 @@ API REST para gerenciamento de atletas, treinos, categorias e centros de treinam
 
 ---
 
-## 📐 Arquitetura
+## Arquitetura
 
 O projeto segue uma arquitetura em camadas, garantindo organização, manutenibilidade e facilidade de testes:
 
