@@ -45,11 +45,11 @@ workout_api/
 
 ##  Funcionalidades
 
--  **Atletas** — cadastro, consulta, atualização e remoção
--  **Categorias** — organização dos atletas por categoria de treino
--  **Centros de Treinamento** — gerenciamento de locais de treino
--  **Migrations** com Alembic — controle de versão do banco de dados
--  **Docker** — ambiente completo containerizado
+-  **Atletas** - cadastro, consulta, atualização e remoção
+-  **Categorias** - organização dos atletas por categoria de treino
+-  **Centros de Treinamento** - gerenciamento de locais de treino
+-  **Migrations** com Alembic - controle de versão do banco de dados
+-  **Docker** - ambiente completo containerizado
 -  **Validação automática** de dados via Pydantic
 
 ---
