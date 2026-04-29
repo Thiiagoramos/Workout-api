@@ -153,4 +153,4 @@ A documentação completa e interativa dos endpoints está disponível via Swagg
 
 ##  Autor
 
-**Thiago Ramos** — [LinkedIn](https://www.linkedin.com/in/thiago-ramos-a86107279)
+**Thiago Ramos** - [LinkedIn](https://www.linkedin.com/in/thiago-ramos-a86107279)
